@@ -25,7 +25,7 @@
 <body class="bg-gray-50">
     <header class="bg-white shadow-sm">
         <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <a href="index.php" class="text-2xl font-bold text-indigo-600">RoadmapHub</a>
+            <a href="index.php" class="text-2xl font-bold text-indigo-600">SkillPath</a>
             <nav class="hidden md:flex space-x-8">
                 <a href="index.php" class="text-gray-700 hover:text-indigo-600">Home</a>
                 <a href="#" class="text-gray-700 hover:text-indigo-600">Categories</a>
